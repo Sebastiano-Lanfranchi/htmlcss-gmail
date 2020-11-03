@@ -1,0 +1,83 @@
+
+header{
+  border-bottom: 2px solid white;
+  margin: 50px 0px 0px 20px;
+  padding-bottom: 10px;
+}
+
+h1{
+  display: inline-block;
+  color: white;
+  position: relative;
+  bottom: 25px;
+}
+
+body{
+  background-image: url(../img/wood.jpg);
+}
+
+.totale{
+  width: 1800px;
+}
+
+.navigazione{
+    margin: 10px 20px;
+}
+
+h2{
+  display: inline-block;
+  font-size: 50px;
+  margin: 10px 20px;
+  color: white;
+}
+
+.bordo{
+    border-bottom: 1px solid white;
+}
+
+#cerchio{
+  color: #ffffff;
+  background-color: orange;
+  border-radius: 50%;
+  padding: 5px;
+}
+
+.posta{
+  margin: 10px 20px;
+  border-top: 2px solid white;
+  border-bottom: 2px solid white;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+.emailn{
+  font-weight: bold;
+}
+
+.emailg{
+  color: #A9A9A9;
+}
+
+.bordo{
+  border: 1px solid black;
+  background-color: #D3D3D3;
+}
+
+#speciale{
+  background-color: white;
+}
+
+#gmailbold{
+  font-weight: bolder;
+  font-size: 25px
+}
+
+#italic-footer{
+  font-style: italic;
+  font-size: 25px
+}
+
+footer{
+  text-align: center;
+  color: white;
+}
